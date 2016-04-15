@@ -1,0 +1,12 @@
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\bin\Debug\Aviso_Convenio.exe.config
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\bin\Debug\Aviso_Convenio.exe
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\bin\Debug\Aviso_Convenio.pdb
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.csprojResolveAssemblyReference.cache
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.Form1.resources
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.Properties.Resources.resources
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.csproj.GenerateResource.Cache
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.exe
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.pdb
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\bin\Debug\MySql.Data.dll
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.Cadastra.resources
+Z:\Projetos\Aviso_Convenio\Aviso_Convenio\obj\Debug\Aviso_Convenio.csproj.ResolveComReference.cache
